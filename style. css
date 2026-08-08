@@ -290,7 +290,7 @@ margin:auto;
 
 .gallery img{
 
-width:100%;
+width:50%;
 
 height:320px;
 
